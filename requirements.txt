@@ -4,6 +4,6 @@ numpy
 pymongo
 Certifi
 pymongo[srv]
-
+scikit-learn
 
 ##-e .
